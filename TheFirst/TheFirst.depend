@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477495565 source:c:\users\gleb\desktop\integral\thefirst\main.cpp
+	<iostream>
+	<iomanip>
+
